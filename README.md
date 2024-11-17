@@ -4,4 +4,4 @@ Compatible with Windows 7, 8, 8.1, 10, 11
 
 Version 0.3.1
 
-I recommend temporarily disabling your antivirus, as it may interpret the actions as an intrusion into the system.
+I recommend temporarily disabling your antivirus, as it may interpret the actions as an intrusion into the system. ARM architecture is also supported, just like the others.
